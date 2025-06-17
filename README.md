@@ -17,10 +17,4 @@ It can perform basic arithmetic operations:
 - `index.html` → Main calculator UI and script.
 - CSS is included inside `<style>` in the same file.
 
-## 📡 Live Demo:
-👉 [Click here to open](https://mayank_58k.github.io/mini-calculator)  
-_(Replace this with your GitHub Pages link once published)_
-
----
-
 🛠 Created by: **[Mayannk Bamne]**
